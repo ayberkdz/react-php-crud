@@ -1,8 +1,6 @@
-# React + Vite
+# ReactJS ve PHP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu projede ReactJS, PHP ve MySQL kullanarak CRUD (Create, Read, Update, Delete) işlemlerini yaptım
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Dizin konumları
+Projeyi yaptığım zaman ReactJS dizini masaüstündeydi ve herhangi bir yerdede olabilirdi. PHP ise wampserverı kurduğum dizinin altındaydı. Çünkü php dosyaları orada çalışabilirdi. Ek olarak localhostlar karışmaması için wampserver a bir port daha ekledim.
